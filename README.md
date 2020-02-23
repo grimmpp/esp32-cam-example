@@ -6,3 +6,5 @@ In addition I added an ad hoc wifi network 'esp32-cam'. The streaming webpage is
 
 <img src="pics/esp32-cam02.jpg" />
 <img src="pics/wireing.png" />
+
+For setting everything up and for wiring see e.g. this [tutorial](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/).
